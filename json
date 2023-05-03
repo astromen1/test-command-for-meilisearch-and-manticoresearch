@@ -1,0 +1,5 @@
+[venturarodriguesalves@gmail.com] /perf/test_engines/tests/hn_small/manticore # du -sh idx
+1.1G    idx
+
+[venturarodriguesalves@gmail.com] /perf/test_engines/tests/hn_small/meilisearch # du -sh .
+38G   
