@@ -1,0 +1,16 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
+Reporting-MTA: dns; mail-node-1.jouwweb.nl
+X-Postfix-Queue-ID: 261797E21E
+X-Postfix-Sender: rfc822; venturarodrigues@kensly.es
+Arrival-Date: Thu, 23 Feb 2023 11:21:20 +0000 (UTC)
+
+Final-Recipient: rfc822; editor.abbsr@scientificpub.org
+Original-Recipient: rfc822;editor.abbsr@scientificpub.org
+Action: relayed
+Status: 2.0.0
+Remote-MTA: dns; smtp.mailchannels.net
+Diagnostic-Code: smtp; 250 2.0.0 Ok: queued as 726135C0DDB
